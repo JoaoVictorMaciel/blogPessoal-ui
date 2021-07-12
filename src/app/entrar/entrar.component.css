@@ -7,3 +7,29 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.back{
+    background-color: #171717;
+}
+
+.white{
+    color: #f1f1f1;
+}
+
+.btn-config{
+    background-color: #bf1f1d;
+    color: #f1f1f1;
+    border-radius: 20px;
+}
+
+.red{
+    color: #bf1f1d;
+}
+
+.btn-transit{
+    transition: 0.4s;
+}
+
+.btn-transit:hover{
+ box-shadow: 0px 11px 6px #00000029;
+}
